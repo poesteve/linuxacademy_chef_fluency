@@ -31,7 +31,5 @@ Getting Started
 -------------------------
 Now that you have the chef-repo ready to go, check out [Learn Chef](https://learn.chef.io/) to proceed with your workstation setup. If you have any questions about Chef you can always ask [our support team](https://www.chef.io/support/) for a helping hand.
 =======
-# learningtutorials
-# learningtutorials
 >>>>>>> 35ac046916a6bedadaf32c43352f74657229d06b
 # linuxacademy_chef_fluency
